@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🎓 I'm currently **studying on SMKN 1 Bangil**, majoring in **Software Engineering (RPL)**.
-- 🌱 I’m currently **learning PHP, NEXT.js and Prisma**.
+- 🌱 I’m currently **learning PHP, C# and Kotlin**.
 - 🤔 I’m looking for help with **improving my android development skills in Android Studio and building better Web APIs with ASP.NET**.  
 - 💬 Ask me about **C#, ASP.NET, Godot, Web Development and Android Development with Kotlin**.  
 - 😄 Pronouns: **He/Him**  
