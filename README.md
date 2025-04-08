@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with **improving my android development skills in Android Studio and building better Web APIs with ASP.NET**.  
 - 💬 Ask me about **C#, ASP.NET, Godot, Web Development and Android Development with Kotlin**.  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love reading a mystery novels and movies with plot twists!** 🎥  
+- ⚡ Fun fact: **I love reading a novels and movies with plot twists!** 🎥  
 
 
 ## 🌐 Socials:
